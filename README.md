@@ -221,15 +221,15 @@ Fork the repository and create a pull request with your improvements.
 
 ## Author
 
-Chinmay
+Chinmay S Kashikar 
 
-Electronics & Communication Engineering Student
+Electronics & Communication Engineering(Student)
 
 Aspiring Data Analyst | Python | SQL | Machine Learning
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Chinmaysk08
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/chinmay-kashikar-23707539b
 
 ---
 
