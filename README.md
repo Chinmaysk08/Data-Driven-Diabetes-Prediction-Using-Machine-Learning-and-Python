@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="assets/github-banner.png" alt="Diabetes Prediction System Banner" width="100%">
+</p>
 #  Diabetes Prediction using Machine Learning
 
 A Machine Learning project that predicts whether a person is diabetic or non-diabetic based on medical diagnostic measurements using the **Support Vector Machine (SVM)** algorithm.
