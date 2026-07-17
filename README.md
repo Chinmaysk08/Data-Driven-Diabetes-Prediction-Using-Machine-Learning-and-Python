@@ -1,6 +1,9 @@
 #  Diabetes Prediction using Machine Learning
 
 A Machine Learning project that predicts whether a person is diabetic or non-diabetic based on medical diagnostic measurements using the **Support Vector Machine (SVM)** algorithm.
+## 🚀 Live Demo
+
+🌐 https://diabetes-prediction-chinmay.streamlit.app/
 
 ## 📌 Project Overview
 
