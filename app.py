@@ -26,6 +26,6 @@ if st.button("Predict"):
     prediction = loaded_model.predict(input_data)
 
     if prediction[0] == 0:
-        st.success("The person is NOT diabetic.")
+        st.success("The person is no Diabetic.")
     else:
-        st.error("The person IS diabetic.")
+        st.error("The person is  Diabetic.")
